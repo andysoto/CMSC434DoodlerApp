@@ -10,6 +10,7 @@ After running the application you will see an empty canvas at the top of the app
 # Sources:
 
 Custom View Instructions: https://www.youtube.com/watch?time_continue=12&v=ktbYUrlN_Ws
+
 ColorPickerSeekBar: https://github.com/avinashkolluru/ColorPickerSeekBar
 
 
